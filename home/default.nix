@@ -6,7 +6,7 @@
   ];
   
   home.username = "gpskwlkr";
-  home.homeDirectory = "/home/gpskwlkr";
+  home.homeDirectory = "/home/oreo";
   home.stateVersion = "23.11";
 }
 
